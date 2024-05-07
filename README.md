@@ -1,2 +1,2 @@
 # Sanke
-the classic game of snake
+This Python project is an implementation of the classic Snake game using the Pygame library. It features multiple game modes, including Normal and Impossible, where the game's speed and snake growth rate vary. The game supports basic movement controls and includes a simple GUI for game interaction. Key features involve handling collisions, food spawning, and dynamic speed adjustments based on the gameplay mode selected. This project serves as a great starting point for those looking to understand game development with Pygame.
